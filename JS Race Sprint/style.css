@@ -1,0 +1,8 @@
+.auto-row {
+    display:flex;
+    padding:10px 20px;
+}
+.greiciausias {
+    background-color: red;
+    color:white;
+}
